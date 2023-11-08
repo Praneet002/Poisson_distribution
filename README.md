@@ -98,7 +98,16 @@ else:
     print("The given data cannot be fitted in Poisson distribution at 1% LOS")
 ```
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 # Output : 
 ![Screenshot 2023-11-08 103640](https://github.com/Praneet002/Poisson_distribution/assets/94308200/de4e9b38-b3d5-4be5-bc16-cd37bd668695)
 
