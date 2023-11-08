@@ -22,6 +22,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 3. The rate of occurrence is constant.
 4. The probability of an event occurring is proportional to the length of the time period. 
  
+
 # Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
@@ -85,6 +86,7 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson distribution at 1% LOS")
 ```
+
 
 # Output : 
 ![Screenshot 2023-11-08 103640](https://github.com/Praneet002/Poisson_distribution/assets/94308200/de4e9b38-b3d5-4be5-bc16-cd37bd668695)
