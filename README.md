@@ -29,10 +29,6 @@ The Poisson distribution is the discrete probability distribution of the number 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 # Procedure :
 
