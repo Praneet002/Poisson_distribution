@@ -108,6 +108,7 @@ else:
 <br>
 <br>
 <br>
+
 # Output : 
 ![Screenshot 2023-11-08 103640](https://github.com/Praneet002/Poisson_distribution/assets/94308200/de4e9b38-b3d5-4be5-bc16-cd37bd668695)
 
